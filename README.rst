@@ -6,33 +6,9 @@
 collective.eeatags.collection
 ==============================================================================
 
-Tell me what your product does
+``eea.tags`` autocomplete widget for tags on criterion edit form from old-style collections.
+(``ATTopic``)
 
-Features
---------
-
-- Can be bullet points
-
-
-Examples
---------
-
-This add-on can be seen in action at the following sites:
-- Is there a page on the internet where everybody can see the features?
-
-
-Documentation
--------------
-
-Full documentation for end users can be found in the "docs" folder, and is also available online at http://docs.plone.org/foo/bar
-
-
-Translations
-------------
-
-This product has been translated into
-
-- Klingon (thanks, K'Plai)
 
 
 Installation
@@ -56,14 +32,12 @@ Contribute
 
 - Issue Tracker: https://github.com/collective/collective.eeatags.collection/issues
 - Source Code: https://github.com/collective/collective.eeatags.collection
-- Documentation: https://docs.plone.org/foo/bar
 
 
 Support
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@example.com
+If you are having issues, please let us know. gotcha@bubblenet.be
 
 
 License
